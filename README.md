@@ -2,4 +2,4 @@
 
 A predictive model with the highest accuracy is determined to test whether customers at a bank are creditable or not.
 Both the training and test data are downloaded from the following site : https://onlinecourses.science.psu.edu/stat857/node/215/.
-The data contains 20 input features and one target variable which determines whether a customer can be given a loan or not.
+The data contains 20 input features and one target variable which determines whether a customer can be given a loan or not. Details of the project can be found in the file : 'German_Credit_Data_Analysis.pdf'.
